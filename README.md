@@ -1,6 +1,6 @@
 ### Hey! I'm Isabelle Silva <br>
 
-Student of Analysis and Systems Development
+Student of System Analysis and Development
 
  ## Learning
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
