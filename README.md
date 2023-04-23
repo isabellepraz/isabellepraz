@@ -1,4 +1,6 @@
-### Hey! I'm Isabelle Silva
+### Hey! I'm Isabelle Silva <br>
+
+Student of Analysis and Systems Development
 
  ## Learning
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -6,3 +8,5 @@
  ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
  
  🇧🇷 Born in São Paulo, Brazil
+
+
